@@ -9,7 +9,7 @@ const settings = {
 const sketch = () => {
   return ({ context, width, height }) => {
   
-    context.fillStyle = 'hsl(0, 0%, 98%)';
+    context.fillStyle = 'white';
     context.fillRect(0, 0, width, height);
 
    
